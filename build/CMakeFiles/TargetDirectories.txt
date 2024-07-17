@@ -1,0 +1,13 @@
+/home/onur/Masaüstü/Car_Counting/build/CMakeFiles/edit_cache.dir
+/home/onur/Masaüstü/Car_Counting/build/CMakeFiles/rebuild_cache.dir
+/home/onur/Masaüstü/Car_Counting/build/CMakeFiles/list_install_components.dir
+/home/onur/Masaüstü/Car_Counting/build/CMakeFiles/install.dir
+/home/onur/Masaüstü/Car_Counting/build/CMakeFiles/install/local.dir
+/home/onur/Masaüstü/Car_Counting/build/CMakeFiles/install/strip.dir
+/home/onur/Masaüstü/Car_Counting/build/src/CMakeFiles/vehicle_counting_demo.dir
+/home/onur/Masaüstü/Car_Counting/build/src/CMakeFiles/edit_cache.dir
+/home/onur/Masaüstü/Car_Counting/build/src/CMakeFiles/rebuild_cache.dir
+/home/onur/Masaüstü/Car_Counting/build/src/CMakeFiles/list_install_components.dir
+/home/onur/Masaüstü/Car_Counting/build/src/CMakeFiles/install.dir
+/home/onur/Masaüstü/Car_Counting/build/src/CMakeFiles/install/local.dir
+/home/onur/Masaüstü/Car_Counting/build/src/CMakeFiles/install/strip.dir
